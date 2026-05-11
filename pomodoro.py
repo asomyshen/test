@@ -1,8 +1,4 @@
-import tkinter as tk
-from tkinter import ttk
-import json
-import os
-from datetime import datetime
+
 
 # ── 配置 ──
 WORK_MIN = 25
